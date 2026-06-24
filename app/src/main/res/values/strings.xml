@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prakt_16_2</string>
+    <string name="hello">Добро пожаловать</string>
+    <string name="text_name">Введите ваше имя</string>
+    <string name="save">Сохранить</string>
+    <string name="name_not_found">Имя не введено</string>
+    <string name="ur_name">Ваше имя</string>
+</resources>
